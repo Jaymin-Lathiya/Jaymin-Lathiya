@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jaymin-Lathiya
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning OOPS(python)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web-Development
+- 🌱 I’m currently learning React Js
 - 📫 How to reach me 
 
 <!---
