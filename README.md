@@ -7,7 +7,7 @@
 
 ### <i>About</i>
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Learning :** Full-Stack Development:	
 -  **Languages :** C++, JavaScript💻
 
 #### Thanks for visiting :heart:
