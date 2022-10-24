@@ -10,5 +10,6 @@
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** C++, JavaScript💻
 
-Credit: [Jaymin-Lathiya](https://github.com/Jaymin-Lathiya)
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/Jaymin-Lathiya/count.svg)
 
