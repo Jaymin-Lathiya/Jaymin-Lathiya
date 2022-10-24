@@ -8,7 +8,7 @@
 ### <i>About</i>
 
 -  **Learning :** Full-Stack Development:	
--  **Languages :** C++, JavaScript💻
+-  **Languages :** HTML5, CSS3,C,C++, JavaScript💻
 
 #### Thanks for visiting :heart:
 
