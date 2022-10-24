@@ -11,5 +11,4 @@
 -  **Languages :** C++, JavaScript💻
 
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/Jaymin-Lathiya/count.svg)
 
