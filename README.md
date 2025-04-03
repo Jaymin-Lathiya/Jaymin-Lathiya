@@ -9,7 +9,7 @@
 
 -  **Learning :** Full-Stack Development:	
 -  **Languages :** HTML5, CSS3,C,C++, JavaScript💻
--  **Framework :** NodeJs,Express
+-  **Framework :** NodeJs,NestJs,Express
 -  **DataBase :** MongoDB
 
 
